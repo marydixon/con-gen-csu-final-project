@@ -1,33 +1,41 @@
 sample-id,absolute-filepath,direction
-SC56.50,/data/tourmaline/00-data/fastq/Sample_134716_R1.fastq.gz,forward
-SC56.50,/data/tourmaline/00-data/fastq/Sample_134716_R2.fastq.gz,reverse
-SC56.22,/data/tourmaline/00-data/fastq/Sample_134717_R1.fastq.gz,forward
-SC56.22,/data/tourmaline/00-data/fastq/Sample_134717_R2.fastq.gz,reverse
-SC54.50,/data/tourmaline/00-data/fastq/Sample_134718_R1.fastq.gz,forward
-SC54.50,/data/tourmaline/00-data/fastq/Sample_134718_R2.fastq.gz,reverse
-SC54.22,/data/tourmaline/00-data/fastq/Sample_134719_R1.fastq.gz,forward
-SC54.22,/data/tourmaline/00-data/fastq/Sample_134719_R2.fastq.gz,reverse
-SC53.50,/data/tourmaline/00-data/fastq/Sample_134720_R1.fastq.gz,forward
-SC53.50,/data/tourmaline/00-data/fastq/Sample_134720_R2.fastq.gz,reverse
-SC53.22,/data/tourmaline/00-data/fastq/Sample_134721_R1.fastq.gz,forward
-SC53.22,/data/tourmaline/00-data/fastq/Sample_134721_R2.fastq.gz,reverse
-SC51.50,/data/tourmaline/00-data/fastq/Sample_134722_R1.fastq.gz,forward
-SC51.50,/data/tourmaline/00-data/fastq/Sample_134722_R2.fastq.gz,reverse
-SC51.22,/data/tourmaline/00-data/fastq/Sample_134723_R1.fastq.gz,forward
-SC51.22,/data/tourmaline/00-data/fastq/Sample_134723_R2.fastq.gz,reverse
-SC18.50,/data/tourmaline/00-data/fastq/Sample_134767_R1.fastq.gz,forward
-SC18.50,/data/tourmaline/00-data/fastq/Sample_134767_R2.fastq.gz,reverse
-SC18.22,/data/tourmaline/00-data/fastq/Sample_134768_R1.fastq.gz,forward
-SC18.22,/data/tourmaline/00-data/fastq/Sample_134768_R2.fastq.gz,reverse
-SC16.50,/data/tourmaline/00-data/fastq/Sample_134771_R1.fastq.gz,forward
-SC16.50,/data/tourmaline/00-data/fastq/Sample_134771_R2.fastq.gz,reverse
-SC16.22,/data/tourmaline/00-data/fastq/Sample_134772_R1.fastq.gz,forward
-SC16.22,/data/tourmaline/00-data/fastq/Sample_134772_R2.fastq.gz,reverse
-SC13.50,/data/tourmaline/00-data/fastq/Sample_134777_R1.fastq.gz,forward
-SC13.50,/data/tourmaline/00-data/fastq/Sample_134777_R2.fastq.gz,reverse
-SC13.22,/data/tourmaline/00-data/fastq/Sample_134778_R1.fastq.gz,forward
-SC13.22,/data/tourmaline/00-data/fastq/Sample_134778_R2.fastq.gz,reverse
-SC07.50,/data/tourmaline/00-data/fastq/Sample_134789_R1.fastq.gz,forward
-SC07.50,/data/tourmaline/00-data/fastq/Sample_134789_R2.fastq.gz,reverse
-SC07.22,/data/tourmaline/00-data/fastq/Sample_134790_R1.fastq.gz,forward
-SC07.22,/data/tourmaline/00-data/fastq/Sample_134790_R2.fastq.gz,reverse
+C1,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C1,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C2,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C2,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C3,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C3,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C4,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C4,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C5,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C5,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C6,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C6,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C7,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C7,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C8,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C8,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C9,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C9,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+C10,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+C10,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P1,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P1,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P2,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P2,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P3,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P3,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P4,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P4,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P5,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P5,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P6,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P6,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P7,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P7,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P8,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P8,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P9,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P9,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
+P10,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,forward
+P10,C:\Users\dixon\OneDrive - Colostate\Classes\BZ562-CompMolecBio\con-gen-csu-final-project\00-data\fastq,reverse
