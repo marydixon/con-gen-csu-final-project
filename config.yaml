@@ -137,7 +137,7 @@ alpha_max_depth: 500
 # - method: choose from: permanova, anosim, permdisp
 # - pairwise: choose from: --p-no-pairwise, --p-pairwise (can be very slow)
 
-beta_group_column: region
+beta_group_column: fert
 beta_group_method: permanova
 beta_group_pairwise: --p-pairwise
 
