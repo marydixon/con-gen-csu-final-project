@@ -1,5 +1,5 @@
 sample-id,absolute-filepath,direction
-C1,/dixonm@colostate.edu/con-gen-csu-final-project/00-data/fastq,forward
+C1,/home/dixonm@colostate.edu/con-gen-csu-final-project/00-data/fastq,forward
 C1,00-data/fastq,reverse
 C2,00-data/fastq,forward
 C2,00-data/fastq,reverse
