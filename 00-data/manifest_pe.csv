@@ -34,8 +34,8 @@ P6,00-data/fastq,reverse
 P7,00-data/fastq,forward
 P7,00-data/fastq,reverse
 P8,00-data/fastq,forward
-P8,00-data\fastq,reverse
-P9,00-data\fastq,forward
-P9,00-data\fastq,reverse
-P10,00-data\fastq,forward
-P10,00-data\fastq,reverse
+P8,00-data/fastq,reverse
+P9,00-data/fastq,forward
+P9,00-data/fastq,reverse
+P10,00-data/fastq,forward
+P10,00-data/fastq,reverse
