@@ -6,3 +6,4 @@ Briefly, these data and corresponding code are for a recent small greenhouse pro
 
 Here, you will see the use of the tourmaline workflow which utilizes qiime and Snakemake to process Illumina outputs from the recent experiment I conducted. I have 20 fastq files which comprise 10 replications of 2 fertilizer treatments (P fertilized and P unfertilized). 
 
+(this readme file will have more information about each file in the repo later)
